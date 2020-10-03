@@ -10,15 +10,16 @@ import { Image, SafeAreaView, Button, ScrollView, ToastAndroid, ActivityIndicato
 import * as firebase from 'firebase';
 
 // Initialize Firebase
+// dados removidos
 var firebaseConfig = {
-  apiKey: "AIzaSyD0cOni8PRYxVO8kl0C-45WJkayGFRl3Ag",
-  authDomain: "registroponto-f3302.firebaseapp.com",
-  databaseURL: "https://registroponto-f3302.firebaseio.com",
-  projectId: "registroponto-f3302",
-  storageBucket: "registroponto-f3302.appspot.com",
-  messagingSenderId: "453660755279",
-  appId: "1:453660755279:web:35132fff82b409fa85b13a",
-  measurementId: "G-QS19K7LMKJ"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 firebase.initializeApp(firebaseConfig);
