@@ -4,7 +4,7 @@
     "slug": "RegistroPonto",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icone_apk.jpg",
+    "icon": "./assets/icone_apk.png",
     "splash": {
       "image": "./assets/loading.png",
       "resizeMode": "contain",
